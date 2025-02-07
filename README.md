@@ -1,16 +1,39 @@
-## Hi there 👋
+## 👋 Isenmesez! (Hi in Tatar) 
+### Welcome to My GitHub! 🚀
 
-<!--
-**Alarlar/Alarlar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Tech Specialist, transitioning into Software Engineering. 
+My background in hardware troubleshooting, networking, and server environments has given me a solid foundation, 
+and I'm now focusing on front end, backend development, automation.
 
-Here are some ideas to get you started:
+### 🔥 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 Current Role: Tech Specialist (Hardware)
+- 💻 Learning: JavaScript, Phyton, C++, Automation
+- 🎯 Goal: Transition into a Software Engineering position
+
+### 🚀 What I'm Working On
+
+- 🔹 Frontend Development (JavaScript, React.js)
+- 🔹 Backend Development (Python, Node.js)
+- 🔹 Automation & Scripting for IT & Networking
+- 🔹 Cloud Technologies & DevOps
+
+### 🤝 Looking to Collaborate
+
+I'm open to networking and working on projects related to:
+- ✅ Frontend & Backend Development
+- ✅ Automation & Scripting
+- ✅ Cloud Technologies & DevOps
+
+### 📂 Projects
+
+💡 Check out my work on [[GitHub Repositories](https://github.com/Alarlar?tab=repositories)]
+
+### 📫 Let's Connect
+
+- 🔗 [[LinkedIn](https://www.linkedin.com/in/dinarengineer/)]
+- ✉️ Email: enkesh@icloud.com
+
+### ⚡ Fun Fact: 
+
+I started my career as a lawyer, but my passion for technology led me to the IT industry in the USA!
