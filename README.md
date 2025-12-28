@@ -7,7 +7,7 @@ and I'm now focusing on front end, backend development, automation.
 
 ### 🔥 About Me
 
-- 🔧 Current Role: Tech Specialist (Hardware)
+- 🔧 Current Role: Robotics OpenAI
 - 💻 Learning: JavaScript, Phyton, C++, Automation
 - 🎯 Goal: Transition into a Software Engineering position
 
