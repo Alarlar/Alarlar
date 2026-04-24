@@ -1,15 +1,15 @@
 ## 👋 Isenmesez! (Hi in Tatar) 
 ### Welcome to My GitHub! 🚀
 
-I'm a Tech Specialist, transitioning into Software Engineering. 
+I'm a Tech Specialist. 
 My background in hardware troubleshooting, networking, and server environments has given me a solid foundation, 
 and I'm now focusing on front end, backend development, automation.
 
 ### 🔥 About Me
 
-- 🔧 Current Role: Robotics OpenAI
-- 💻 Learning: JavaScript, Phyton, C++, Automation
-- 🎯 Goal: Transition into a Software Engineering position
+- 🔧 Current Role: System testing specialist at Apple
+- 💻 Learning: JavaScript, TypeScript, Phyton, C++, Automation
+- 🎯 Goal: Software Engineering 
 
 ### 🚀 What I'm Working On
 
