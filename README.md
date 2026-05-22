@@ -1,29 +1,43 @@
-## 👋 Isenmesez! (Hi in Tatar) 
-### Welcome to My GitHub! 🚀
+# Isenmesez! (Hi in Tatar) 👋 Welcome to My GitHub! 🚀
 
-I'm a Tech Specialist. 
-My background in hardware troubleshooting, networking, and server environments has given me a solid foundation, 
-and I'm now focusing on front end, backend development, automation.
+I am a **Systems QA & Software Engineer** based anywhere/everywhere. With a strong foundational background in infrastructure, servers, and hardware systems, I have transitioned into **AI/ML system testing and automated validation**. 
 
-### 🔥 About Me
+Currently, I am working on improving full stack developer skills to accelerate my development workflow, build automation scripts, and refine code efficiency with Claude Code.
 
-- 🔧 Current Role: System testing specialist at Apple
-- 💻 Learning: JavaScript, TypeScript, Phyton, C++, Automation
-- 🎯 Goal: Software Engineering 
+---
 
-### 🚀 What I'm Working On
+###  About Me
 
-- 🔹 Frontend Development (JavaScript, React.js)
-- 🔹 Backend Development (Python, Node.js)
-- 🔹 Automation & Scripting for IT & Networking
-- 🔹 Cloud Technologies & DevOps
+* **🔧 Current Role:** Systems QA Engineer at Apple (Testing Computer Vision ML models)
+* **💻 Technical Stack:** Python, JavaScript, TypeScript, Node.js, C++
+* **🤖 AI & Automation:** Claude Code, Automated Test Stations, Data Validation Pipelines
+* **🎯 Goal:** Full-Stack Software Engineering
 
-### 🤝 Looking to Collaborate
+---
 
-I'm open to networking and working on projects related to:
-- ✅ Frontend & Backend Development
-- ✅ Automation & Scripting
-- ✅ Cloud Technologies & DevOps
+###  What I'm Working On
+
+* **🔹 AI/ML Testing & Tooling:** Building python-based automation and parsing scripts to validate Machine Learning model outputs.
+* **🔹 Full-Stack Applications:** Developing modern, responsive web apps using the MERN stack (MongoDB, Express, React, Node.js).
+* **🔹 Automated Workflows:** Integrating AI-assisted coding tools (Claude Code) into daily scripting, debugging, and continuous integration workflows.
+* **🔹 Cloud & Infrastructure:** Expanding knowledge in Docker, DevOps pipelines, and cloud environments.
+
+---
+
+### 🛠️ Featured Project
+
+* **[RunShare Pro](https://github.com/your-username/runshare-pro)** – A full-stack fitness tracking application powered by MongoDB, Express, React, Node.js, and Leaflet.js for geospatial mapping, secured with JWT authentication.
+
+---
+
+###  Let's Connect & Collaborate
+
+I am always open to networking, discussing AI/ML engineering trends, or collaborating on:
+* ✅ Full-Stack Web Development (React & Node.js)
+* ✅ AI-assisted development and QA Automation workflows
+* ✅ Open-source Python & JavaScript tooling
+
+📫 **How to reach me:** enkesh@icloud.com | [LinkedIn](https://www.linkedin.com/in/dinarengineer/)
 
 ### 📂 Projects
 
@@ -31,9 +45,4 @@ I'm open to networking and working on projects related to:
 
 ### 📫 Let's Connect
 
-- 🔗 [[LinkedIn](https://www.linkedin.com/in/dinarengineer/)]
-- ✉️ Email: enkesh@icloud.com
 
-### ⚡ Fun Fact: 
-
-I started my career as a lawyer, but my passion for technology led me to the IT industry in the USA!
