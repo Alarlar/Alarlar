@@ -8,12 +8,12 @@ build on the target hardware, decide whether it goes to the data-collection team
 and write the runbooks that let them operate without me in every step.
 
 #### Focus
-- 🤖 **ML/AI validation** model behaviour on target hardware, training-data quality
-- 🔁 **Release gating & regression** build identity, known-good baselines,
+- **ML/AI validation** model behaviour on target hardware, training-data quality
+- **Release gating & regression** build identity, known-good baselines,
   isolating real regressions from rig and hardware faults
-- 🛠 **Test tooling** Python automation and parsing scripts, test-station data
+- **Test tooling** Python automation and parsing scripts, test-station data
   capture, AI-assisted development
-- 🖥 **Infrastructure background** servers, hardware systems, Linux
+- **Infrastructure background** servers, hardware systems, Linux
 
 #### Stack
 Python · TypeScript · JavaScript · Node.js · Bash · Linux / macOS ·
